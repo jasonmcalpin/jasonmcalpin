@@ -29,7 +29,7 @@ I'm a full-stack developer, game designer, and AI enthusiast passionate about cr
 ---
 
 ### 📫 How to reach me ...
-- [LinkedIn](https://www.linkedin.com/in/jasonmcalpin) for professional inquiries
+- [LinkedIn](https://www.linkedin.com/in/jasondennismcalpin) for professional inquiries
 - [GitHub Issues or Discussions](https://github.com/jasonmcalpin) to collaborate on projects
 - Direct email: <a href="mailto:jsonmcalpin&#64;gmail&#46;com">jsonmcalpin&#64;gmail&#46;com</a>
 
